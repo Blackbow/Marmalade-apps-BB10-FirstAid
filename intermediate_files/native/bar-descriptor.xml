@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<qnx xmlns="http://www.qnx.com/schemas/application/1.0">
+    <id>com.mycompany.firstaid</id>
+    <filename>FirstAid</filename>
+    <name>First Aid</name>
+    <author>Blackbow Media</author>
+    <authorId>gYAAgO1lKQ8Nzx6z7T6Ek8nFRCE</authorId>
+    <versionNumber>0.0.1</versionNumber>
+    <versionLabel>0.0.1</versionLabel>
+    <platformVersion>3.0.0.0</platformVersion>
+	<buildId>0</buildId>
+    <initialWindow>
+        <systemChrome>none</systemChrome>
+        <transparent>false</transparent>
+        <autoOrients>true</autoOrients>
+    </initialWindow>
+    <publisher>MyCompany</publisher>
+    <action system="true">run_native</action>
+    <category>core.games</category>
+    <icon>
+        <image>icon.png</image>
+    </icon>
+</qnx>
